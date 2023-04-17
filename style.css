@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.title{
+  border:6px dashed green;
+  padding:15px;
+  margin:10px;
+}
+
+body{
+  background-color: lightgreen;
+}
